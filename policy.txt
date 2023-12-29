@@ -1,4 +1,4 @@
 {
     "version":0,
-    "update":"https://fh508.game-xev.info/bd126ee40a2c49ef92b845d7ce01cf1a/check"
+    "update":"/9b4ee8ca52b14e628c7d7d5510299da7/check"
 }
