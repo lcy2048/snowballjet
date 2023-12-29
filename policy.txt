@@ -1,1 +1,4 @@
-
+{
+    "version":0,
+    "update":"https://fh508.game-xev.info/bd126ee40a2c49ef92b845d7ce01cf1a/check"
+}
